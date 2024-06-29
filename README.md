@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p"><img src="https://your-image-url.png" alt="AI Custom Prompts Gemini Web App" width="200"></a>
+  <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p"><img src="https://i.imgur.com/d7yKYKD.png" alt="AI Custom Prompts Gemini Web App" width="300" ></a>
   <br>
    🧠 AI Custom Prompts Gemini Web App
   <br>
