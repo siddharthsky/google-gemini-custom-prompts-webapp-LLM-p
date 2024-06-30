@@ -24,8 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="https://siddharthsky.github.io/ai-custom-prompts-gemini-web-LLM-p/"><img src="https://i.imgur.com/iNi1fDf.png" width="100" alt="🔗 WEB APP "></a>
+  <a href="https://siddharthsky.github.io/ai-custom-prompts-gemini-web-LLM-p/">🖥️Live Demo</a>
 </p>
+
 
 ## Overview 📝
 
