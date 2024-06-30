@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p"><img src="https://i.imgur.com/d7yKYKD.png" alt="AI Custom Prompts Gemini Web App" width="300" ></a>
+  <a href="https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p"><img src="https://i.imgur.com/d7yKYKD.png" alt="AI Custom Prompts Gemini Web App" width="300" ></a>
   <br>
    Google Gemini with Custom Prompts / Web App
   <br>
@@ -9,9 +9,9 @@
 <h4 align="center">Enhancing User Interaction with Language Models</h4>
 
 <p align="center">
-  <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p/issues"><img src="https://img.shields.io/github/issues/siddharthsky/ai-custom-prompts-gemini-web-LLM-p"></a> 
-  <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p/stargazers"><img src="https://img.shields.io/github/stars/siddharthsky/ai-custom-prompts-gemini-web-LLM-p"></a>
-  <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p/blob/main/LICENSE">
+  <a href="https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p/issues"><img src="https://img.shields.io/github/issues/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p"></a> 
+  <a href="https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p/stargazers"><img src="https://img.shields.io/github/stars/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p"></a>
+  <a href="https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg">
   </a>
 </p>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://siddharthsky.github.io/ai-custom-prompts-gemini-web-LLM-p/">🖥️Live Demo</a>
+  <a href="https://siddharthsky.github.io/google-gemini-custom-prompts-webapp-LLM-p/">🖥️Live Demo</a>
 </p>
 
 
@@ -46,7 +46,7 @@ This project is an HTML-based Gemini Google web app designed to facilitate inter
 
 1. Clone the repository:
 ```
-git clone https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p.git
+git clone https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p.git
 ```
 2.  Open `index.html` in your web browser.
 
