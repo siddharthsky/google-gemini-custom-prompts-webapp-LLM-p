@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/siddharthsky/ai-custom-prompts-gemini-web-LLM-p"><img src="https://i.imgur.com/d7yKYKD.png" alt="AI Custom Prompts Gemini Web App" width="300" ></a>
   <br>
-   🧿 AI Custom Prompts Gemini Web App
+   Google Gemini with Custom Prompts / Web App
   <br>
 </h1>
 
