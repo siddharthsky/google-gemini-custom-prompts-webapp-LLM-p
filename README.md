@@ -38,6 +38,7 @@ This project is an HTML-based Gemini Google web app designed to facilitate inter
 - Four customizable prompts for tailored interactions with language model.
 - Custom prompts saved in client cookies, enabling import and export of custom prompts.
 - Easy deployment on any static web page server like GitHub Pages.
+- 100% HTML-based, ensuring compatibility and simplicity for static web page servers.
 
 ## Getting Started 🚀
 
