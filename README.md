@@ -41,7 +41,7 @@ This project is an HTML-based Gemini Google web app designed to facilitate inter
 
 - **HTML**: Core structure of the web app.
 - **JavaScript**: Manages client-side functionalities and interactions.
-- **CSS**: Styles and enhances the visual appeal of the app.
+- **Bootstrap**: Ensures a responsive and visually appealing UI.
 
 ## Getting Started 🚀
 
