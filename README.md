@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Enhancing User Interaction with Language Models</h4>
+<h4 align="center">Enhancing User Interaction with Gemini Language Model</h4>
 
 <p align="center">
   <a href="https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p/issues"><img src="https://img.shields.io/github/issues/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p"></a> 
@@ -16,58 +16,66 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#overview-">Overview</a> •
-  <a href="#features-">Features</a> •
-  <a href="#getting-started-">Getting Started</a> •
-  <a href="#contributing">Contributing</a> 
-</p>
 
 <p align="center">
-  <a href="https://siddharthsky.github.io/google-gemini-custom-prompts-webapp-LLM-p/">🖥️Live Demo</a>
+  <a href="https://bit.ly/CustGemini">🖥️Live Demo</a>
 </p>
 
+
+
+An HTML-based web app designed to enhance user interaction with language models using custom prompts. Suitable for static web page servers such as GitHub Pages, the app operates without Python or active server dependencies.
 
 ## Overview 📝
 
 This project is an HTML-based Gemini Google web app designed to facilitate interaction with language models using custom prompts. It operates without Python or active server dependencies, suitable for deployment on static web page servers such as GitHub Pages. The app allows users to control model temperature, offers four customizable prompts, and saves custom prompts in client cookies for seamless use.
 
-## Features ✨
+## Features 🚀
 
-- Model temperature control for fine-tuning response characteristics.
-- Four customizable prompts for tailored interactions with language model.
-- Custom prompts saved in client cookies, enabling import and export of custom prompts.
-- Easy deployment on any static web page server like GitHub Pages.
-- 100% HTML-based, ensuring compatibility and simplicity for static web page servers.
+- **Model Temperature Control**: Fine-tune response characteristics.
+- **Customizable Prompts**: Four prompts for tailored interactions.
+- **Client-Side Storage**: Custom prompts saved in client cookies, enabling import and export of custom prompts.
+- **Static Deployment**: Easy deployment on any static web page server like GitHub Pages.
+- **HTML-Based**: Ensuring compatibility and simplicity for static web page servers.
+
+## Technology Stack 🛠️
+
+- **HTML**: Core structure of the web app.
+- **JavaScript**: Manages client-side functionalities and interactions.
+- **CSS**: Styles and enhances the visual appeal of the app.
 
 ## Getting Started 🚀
 
-### Usage
+### Usage - 1
+
+1. Open the web app: https://bit.ly/CustGemini
+2. Add your API key.
+3. Fill in the prompts and select prompt if required.
+4. Ask questions to the Gemini LLM.
+
+
+### Usage - 2
 
 1. Clone the repository:
-```
-git clone https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p.git
-```
-2.  Open `index.html` in your web browser.
-
+    ```
+    git clone https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p.git
+    ```
+2. Open `index.html` in your web browser.
 
 ### API Keys
 
 > [!NOTE]  
-> To use the web app add API key in API tab.
-> 
+> To use the web app, add your API key in the API tab.
+>
 > Your API key is securely stored in your local browser's cookie and is never transmitted to the cloud.
 
-
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! Whether it's feedback, suggestions, or improvements, your input is appreciated.
 
-## License
+## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - [Gemini API](https://ai.google.dev/)
-
