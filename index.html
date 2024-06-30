@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -43,17 +42,12 @@
       </ul>
     </div>
 
-
-
-
     <div class="collapse mb-2" id="collapseExample1">
       <div class="card card-body">
         <label for="customRange2" class="form-label">Model Temperature [0-1]</label>
         <input type="range" class="form-range" min="0" max="1" step="0.2" id="customRange2">
       </div>
     </div>
-
-
 
     <div class="collapse mb-2" id="collapseExample2">
       <!-- <div class="card card-body"> -->
@@ -82,7 +76,6 @@
       </div>
     </div>
   </div>
-
 
   <div class="container mb-3 text-center">
     <form id="message-form" class="row g-3">
@@ -137,7 +130,6 @@
   <div id="modals"></div>
 </body>
 
-
 <!-- Modal -->
 <div class="modal fade" id="PromptPromiseModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
@@ -185,16 +177,7 @@
   </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
+<!-- ---------------------------------------------------------------- -->
 
 <script>
   function openModal() {
@@ -230,13 +213,7 @@
     return savedAPI = null;
     // return savedAPI = "No API key 🚫";
   }
-
 </script>
-
-
-
-
-
 
 <script>
   // Declare promptgiven in the global scope
@@ -270,13 +247,11 @@
     loadSavedPrompts(); // Load saved prompts when modal is opened
   }
 
-
   function PromptPromise() {
     var myModal = new bootstrap.Modal(document.getElementById('PromptPromiseModal'));
     myModal.show();
     loadSavedPrompts(); // Load saved prompts when modal is opened
   }
-
 
   function savePrompts(prompts) {
     // Convert prompts object to JSON string
@@ -285,7 +260,6 @@
     // Save JSON string in cookies with SameSite=None and Secure attributes
     document.cookie = "prompts=" + promptsJSON + ";path=/;SameSite=None;Secure";
   }
-
 
   function loadSavedPrompts() {
     var allCookies = document.cookie;
@@ -368,20 +342,6 @@
     location.reload();
   });
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <script>
   function showConfirmationModal() {
