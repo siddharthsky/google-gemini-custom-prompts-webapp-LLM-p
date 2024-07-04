@@ -55,6 +55,16 @@ This project is an HTML-based Gemini Google web app designed to facilitate inter
 
 ### Usage - 2
 
+1. Fork the repository.
+2. On GitHub, go to: Settings > Pages.
+3. In Build and Deploy, select the main branch and set the directory to root, then save.
+4. This will deploy your site at:
+    ```
+    https://{username}.github.io/google-gemini-custom-prompts-webapp-LLM-p/
+    ```
+
+### Usage - 3
+
 1. Clone the repository:
     ```
     git clone https://github.com/siddharthsky/google-gemini-custom-prompts-webapp-LLM-p.git
